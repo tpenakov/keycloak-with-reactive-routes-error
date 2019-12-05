@@ -7,7 +7,7 @@
     <artifactId>elmediko-bma-fhir-wrapper</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <quarkus.platform.version>1.0.0.Final</quarkus.platform.version>
+        <quarkus.platform.version>1.0.1.Final</quarkus.platform.version>
 
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <maven.compiler.parameters>true</maven.compiler.parameters>
